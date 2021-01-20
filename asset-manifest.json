@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a993190d.chunk.css",
+    "main.js": "/static/js/main.a5c3409f.chunk.js",
+    "main.js.map": "/static/js/main.a5c3409f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63b755e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63b755e3.js.map",
+    "static/js/2.29292279.chunk.js": "/static/js/2.29292279.chunk.js",
+    "static/js/2.29292279.chunk.js.map": "/static/js/2.29292279.chunk.js.map",
+    "static/js/3.8654f6af.chunk.js": "/static/js/3.8654f6af.chunk.js",
+    "static/js/3.8654f6af.chunk.js.map": "/static/js/3.8654f6af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a993190d.chunk.css.map": "/static/css/main.a993190d.chunk.css.map",
+    "static/js/2.29292279.chunk.js.LICENSE.txt": "/static/js/2.29292279.chunk.js.LICENSE.txt",
+    "static/media/analysis.9350aec7.PNG": "/static/media/analysis.9350aec7.PNG",
+    "static/media/hr_logo.1d2db5bf.png": "/static/media/hr_logo.1d2db5bf.png",
+    "static/media/profile.c177bec4.png": "/static/media/profile.c177bec4.png",
+    "static/media/progress.a876384d.PNG": "/static/media/progress.a876384d.PNG",
+    "static/media/quiz.ab544359.png": "/static/media/quiz.ab544359.png",
+    "static/media/structure.8bbeb014.png": "/static/media/structure.8bbeb014.png",
+    "static/media/youtube_cover.f3581dbb.PNG": "/static/media/youtube_cover.f3581dbb.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b755e3.js",
+    "static/js/2.29292279.chunk.js",
+    "static/css/main.a993190d.chunk.css",
+    "static/js/main.a5c3409f.chunk.js"
+  ]
+}
